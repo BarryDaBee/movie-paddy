@@ -16,6 +16,7 @@ class MoviePaddy extends StatelessWidget {
       designSize: const Size(405, 878),
       builder: () {
         return MaterialApp(
+          debugShowCheckedModeBanner: false,
           title: 'Flutter Demo',
           theme: ThemeData(
             primarySwatch: Colors.blue,
