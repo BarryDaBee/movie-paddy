@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
 import 'package:movie_paddy/app/exports.dart';
 import 'package:movie_paddy/presentation/widgets/blurred_container.dart';
